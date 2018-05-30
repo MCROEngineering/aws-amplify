@@ -37,7 +37,7 @@ public class RNAWSCognitoModule extends ReactContextBaseJavaModule {
 
   @Override
   public String getName() {
-    return "RNAWSCognito";
+    return "RNAWSCognitoModule";
   }
 
   @ReactMethod
